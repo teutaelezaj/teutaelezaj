@@ -1,7 +1,7 @@
-- :woman_technologist: Hey there! My name is Teuta Elezaj and an aspiring software engineer. I am a computer science and mathematics student, and I love all things tech. Some of my other passions include philosophy and weightlifting.
+- :woman_technologist: Hey there! My name is Teuta Elezaj and I am an aspiring software engineer. I am a computer science and mathematics student, and I love all things tech. Some of my other passions include philosophy and weightlifting.
 - 😄 Pronouns: She/Her
 - 🌱 I’m addicted to learning and growing every day
-- :dna: I am the founder and president of the Women in STEM club at my university
+- :dna: I am the founder and president of the Women in STEM club at St. John's University
 - :computer: I am starting a software engineering internship in February
 - :heartpulse: I’m currently learning frontend development as I am coding a website for my club!
 - 📫 How to find me: 
