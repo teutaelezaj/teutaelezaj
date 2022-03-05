@@ -2,7 +2,7 @@
 - 😄 Pronouns: She/Her
 - 🌱 I’m addicted to learning and growing every day. I typically code in Java and C#, but have also been dabbling in Python and JavaScript
 - :dna: I am the founder and president of the Women in STEM club at St. John's University
-- :computer: I am starting a software engineering internship in February
+- :computer: I am currently a software engineering intern, and am an incoming strategy analyst at Deloitte!
 - :heartpulse: I’m currently learning frontend development as I am coding a website for my club!
 - 📫 How to find me: 
   - :speech_balloon: [LinkedIn](https://www.linkedin.com/in/teutaelezaj/)
